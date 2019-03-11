@@ -67,7 +67,7 @@ class CoinObserver:
 	  		last_price = info[6]
 	  		self._update_graph(last_price)
 	  		if self.verbose:
-	  			print(f'Last price: {last_price}, last points: {self.last_points}')
+	  			print('Last price: {}, last points: {}'.format(last_price, self.last_points))
 
 	def start(self, verbose = True):
 		"""
