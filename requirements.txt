@@ -3,7 +3,7 @@ attrs==19.1.0
 autobahn==19.2.1
 Automat==0.7.0
 bitfinex-v2==1.1.5
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 colorzero==1.1
